@@ -214,7 +214,7 @@ namespace Psim
 		{
 			foreach (var cell in cells)
 			{
-				cell.TakeMeasurements(effEnergy, tEq);
+				cell.TakeMeasurements(effEnergy, tEq);:
 			}
 		}
 	}
